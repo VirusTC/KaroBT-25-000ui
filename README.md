@@ -1,4 +1,4 @@
-Clinical Monographs of Native Beta-Carotene: Baseline and Regulatory Overview
+## Clinical Monographs of Native Beta-Carotene: Baseline and Regulatory Overview
 
 Before undergoing any sound or frequency alteration, natural beta-carotene (such as that sourced from the marine microalgae *Dunaliella salina* in [NOW Foods Natural Beta-Carotene](https://www.nowfoods.com/products/supplements/beta-carotene-natural-7500-mcg-softgels)) functions natively as a lipophilic antioxidant and a provitamin A precursor. When deployed clinically, the compound exhibits specific metabolic, genetic, and physiological mechanisms across the fields of global pathology, health, and oncology. [[1](https://github.com/VirusTC/KaroBT-25-000ui/tree/main#:~:text=Before%20any%20sound%20or%20frequency,a%20vital%20provitamin%20A%20precursor.)]
 
